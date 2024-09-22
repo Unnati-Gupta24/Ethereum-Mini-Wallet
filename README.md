@@ -25,14 +25,14 @@ Run the application:<br/>
 **Usage**<br/>
 Once the application is running, you can access it through your web browser.<br/> Follow these steps:<br/>
 
-Open a new tab in your browser and navigate to http://localhost:3000 (or whatever port your server is running on).
-You will see a simple interface with options to create a new wallet, view existing wallets, and perform other operations.
-To create a new wallet, click on "Create New Wallet" and follow the prompts.
-To view your wallet details, including the public address and private key, click on "View Wallet".
-You can also practice sending transactions by clicking on "Send Transaction".
-Please note that this is a simplified version of an Ethereum wallet and should not be used for real-world 
-applications or storing valuable cryptocurrencies. Always keep your private keys secure and never share them.
+Open a new tab in your browser and navigate to http://localhost:3000 (or whatever port your server is running on).<br/>
+You will see a simple interface with options to create a new wallet, view existing wallets, and perform other operations.<br/>
+To create a new wallet, click on "Create New Wallet" and follow the prompts.<br/>
+To view your wallet details, including the public address and private key, click on "View Wallet".<br/>
+You can also practice sending transactions by clicking on "Send Transaction".<br/>
+Please note that this is a simplified version of an Ethereum wallet and should not be used for real-world.<br/>
+applications or storing valuable cryptocurrencies. Always keep your private keys secure and never share them.<br/><br/>
 
-**Contributing**
-Contributions are welcome! Please feel free to submit pull requests or issues. 
+**Contributing**<br/>
+Contributions are welcome! Please feel free to submit pull requests or issues. <br/>
 When contributing, please adhere to this project's coding standards and guidelines.
