@@ -14,7 +14,7 @@ Basic error handling and validation<br/>
 To run this application locally:<br/>
 
 ### **Clone the repository**<br/>
-> ```git clone https://github.com/Unnati-Gupta24/Ethereum-Mini-Wallet.git```<br/> <\
+> ```git clone https://github.com/Unnati-Gupta24/Ethereum-Mini-Wallet.git```<br/> 
 
 Navigate to the project directory:<br/>
 > ```cd Ethereum-Mini-Wallet```<br/>
